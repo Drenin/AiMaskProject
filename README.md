@@ -1,6 +1,9 @@
 # AiMaskProject
 AI를 활용한 마스크 착용 여부 판별서비스 구현하기
 
+ㅁ본 프로젝트는 AI HUB(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=469)에서 
+제공되는 자료중 일부를 수정하여 진행합니다.
+
 프로젝트 목차
 1. 데이터 수집하기: 웹캠을 활용하여 얼굴 데이터셋을 수집합니다.
 2. 데이터 전처리(1): 인공지능 모델 학습에 필요한만큼 얼굴 데이터셋을 준비합니다.
